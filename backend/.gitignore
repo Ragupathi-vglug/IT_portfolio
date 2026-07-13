@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+faculty.db
+venv/
+.env
+uploads/faculty/*
+!uploads/faculty/.gitkeep
